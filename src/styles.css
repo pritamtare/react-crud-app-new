@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+}
+
+.form {
+  background: #ddd;
+}
+input {
+  outline: none;
+}
+
+.modals {
+  width: 700px;
+  padding: 2rem 6rem;
+  margin: 4rem auto;
+  background-color: #eee;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
